@@ -1,6 +1,6 @@
 CC=gcc
 FLAGS=-std=c99 -lm
-EXEC=../calc
+EXEC=calc
 
 all: $(EXEC)
 
